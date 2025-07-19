@@ -1,17 +1,16 @@
-# JavaScript Calculator 🧮
+# JavaScript Unit Converter 🛠️
 
-A simple calculator built with HTML, CSS, and JavaScript.  
-It performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+A lightweight, browser‑based tool that converts:
 
-## 🚀 Features
+- **Temperature** Celsius ⇄ Fahrenheit  
+- **Weight** Kilograms ⇄ Pounds  
+- **Distance** Kilometres ⇄ Miles  
 
-- Responsive UI
-- Keyboard and button input support
-- Handles basic operations
-- Clear and delete functionality
+Built with vanilla **HTML + CSS + JavaScript**—no frameworks, just the essentials.
 
-## 🛠️ Technologies Used
+---
 
-- HTML
-- CSS
-- JavaScript
+## ✨ Features
+- Instant two‑way conversion (enter a value in either field).
+- Clear alert if both / neither inputs are filled.
+- Simple, responsive UI—works on desktop and mobile.
